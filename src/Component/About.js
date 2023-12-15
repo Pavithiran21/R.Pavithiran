@@ -44,14 +44,3 @@ export const About = () => {
     </>
   );
 };
-
-
-
-
-
-
-// A dedicated and motivated Full Stack Developer, I hold a degree from KSR College of Engineering and have successfully completed a comprehensive Full Stack Developer course at Guvi, earning certification.
-
-// Eager to apply my expertise in front-end and back-end technologies, I am driven by a passion for creating seamless and efficient web applications. Having honed my skills through hands-on experience and structured learning, I am well-equipped to contribute innovative solutions.
-
-// My goal is to collaborate within dynamic development teams, leveraging my knowledge to drive the company's development objectives. Committed to continuous learning, I bring a proactive mindset and a solid foundation to the ever-evolving field of Full Stack Development.
