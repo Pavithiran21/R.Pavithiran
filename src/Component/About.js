@@ -40,7 +40,7 @@ export const About = () => {
               <li>Continued to expand knowledge in API design and cloud computing solutions.</li>
             </ul>
 
-            <a target='_blank' rel="noreferrer" href='https://drive.google.com/file/d/1GsYw6NIR005tS8wj6jkpUkZGVVvipayH/view?usp=sharing'>
+            <a target='_blank' rel="noreferrer" href='https://drive.google.com/file/d/1LW7P7iC-FfwmwK53J36NR8XlJXhwb9xc/view?usp=sharing'>
               <Button variant='outline-success'>
                 <FaEye /> Resume
               </Button>
